@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu_Burger</string>
+    <string name="call">Call</string>
+    <string name="settings">settings</string>
+    <string name="about">about</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
