@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Menu_BurgerBtn.iml" filepath="$PROJECT_DIR$/Menu_BurgerBtn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Menu_Burger.iml" filepath="$PROJECT_DIR$/.idea/Menu_Burger.iml" />
+      <module fileurl="file://C:\AndroidProject\Menu_Burger\Menu_BurgerBtn.iml" filepath="C:\AndroidProject\Menu_Burger\Menu_BurgerBtn.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\AndroidProject\Menu_Burger\app\app.iml" filepath="C:\AndroidProject\Menu_Burger\app\app.iml" />
     </modules>
   </component>
 </project>

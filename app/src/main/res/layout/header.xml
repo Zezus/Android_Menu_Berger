@@ -7,9 +7,9 @@
     android:padding="20dp">
 
     <ImageView
-        android:layout_width="75dp"
+        android:layout_width="118dp"
         android:layout_height="75dp"
-        android:src="@drawable/lion" />
+        android:background="@drawable/lion" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -17,6 +17,6 @@
         android:layout_marginLeft="10dp"
         android:padding="10dp"
         android:text="Zezus"
-        android:textColor="@color/colorPrimary" />
+        android:textColor="#FFFFFF" />
 
 </LinearLayout>
