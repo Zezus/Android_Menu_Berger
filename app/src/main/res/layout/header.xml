@@ -3,20 +3,21 @@
     android:layout_width="match_parent"
     android:layout_height="150dp"
     android:background="@drawable/background"
-    android:orientation="vertical"
+    android:orientation="horizontal"
     android:padding="20dp">
 
     <ImageView
-        android:layout_width="118dp"
+        android:layout_width="72dp"
         android:layout_height="75dp"
         android:background="@drawable/lion" />
 
     <TextView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="36dp"
         android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
         android:padding="10dp"
         android:text="Zezus"
-        android:textColor="#FFFFFF" />
+        android:textColor="@android:color/black" />
 
 </LinearLayout>

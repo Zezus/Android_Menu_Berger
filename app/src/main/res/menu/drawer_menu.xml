@@ -2,8 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/dm_about_name"
+        android:icon="@drawable/ic_info_name"
         android:title="@string/about" />
     <item
         android:id="@+id/dm_settings_name"
+        android:icon="@drawable/ic_settings_name"
         android:title="@string/settings" />
+    <item
+        android:id="@+id/dm_exit_name"
+        android:icon="@drawable/ic_exit_name"
+        android:title="@string/exit" />
 </menu>

@@ -12,6 +12,15 @@
     tools:context="com.example.azia.menu_burgerbtn.MainActivity">
 
 
+    <LinearLayout
+        android:id="@+id/am_context_ll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+
     <android.support.design.widget.NavigationView
         android:id="@+id/am_nav_view"
         android:layout_width="wrap_content"
